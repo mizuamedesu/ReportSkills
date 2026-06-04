@@ -1,0 +1,4 @@
+interface:
+  display_name: "Report Skills"
+  short_description: "User-authored report workflow skill"
+  default_prompt: "Use this skill for the report workflow I define in SKILL.md."
