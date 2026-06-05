@@ -1,6 +1,6 @@
 ---
 name: report-skills
-description: User-authored report workflow skill. RUse this skill whenever the user is creating, writing, or editing a report, academic assignment, or document.
+description: User-authored report workflow skill. Use this skill whenever the user is creating, writing, or editing a report, academic assignment, or document.
 ---
 
 # Report Skills
